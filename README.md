@@ -1,66 +1,123 @@
-<h1 align="center">Hi 👋, I'm Vincenzo Pirozzi</h1>
-<h3 align="center">A passionate frontend (REACT/ANGULAR) developer from Italy</h3> <br/>
+<h1 align="center">Vincenzo Pirozzi</h1>
+<h3 align="center">Senior Full Stack Developer | Backend & DevSecOps Specialist</h3>
 
-👋 Hi there, I am a passionate Full Stack Developer,I blend my love for coding with creativity. With a strong foundation in both front-end and back-end technologies, I craft interactive and efficient web solutions. <br/>
-
-🔨 Technical Toolkit:
-
-<h4> Front-End: </h4> Proficient in HTML, CSS, JavaScript (ES6+), and I create responsive designs using Bootstrap. Well-versed with frameworks like Angular, React, and Vue.js.
-Back-End: Experienced in Python and Java, along with Node.js frameworks such as Express.js and NestJS. Skilled in database management with SQL (PostgreSQL, MySQL) and NoSQL (MongoDB) systems.
-Miscellaneous: Constantly integrating APIs and AJAX for dynamic web experiences. <br/>  
-<br/>
-🎓 Educational Background:<br/>
-<br/>
-Diploma in Computer Science and Telecommunications Technology from I.T.I.S. "Augusto Righi".<br/>
-<br/>
-🛠 Freelance Projects:<br/>
-<br/>
-I thrive on freelance work which allows me to tackle diverse challenges and continuously evolve my skill set. From developing Telegram bots with Python to optimizing e-commerce user experiences, I deliver tailored solutions that drive results and enhance user engagement.<br/>
-<br/>
-📈 Proven Impact:<br/>
-<br/>
-My initiative to adopt a mobile-first design philosophy led to a 40% increase in mobile user engagement for a client's platform. A/B testing and UI/UX refinement based on user feedback is my forte, ensuring high-quality, user-centered products.<br/>
-<br/>
-📫 Get in Touch:<br/>
-<br/>
-I'm always open to discussing new projects or tech opportunities. Reach out to me for any collaborations or just a chat about the latest in tech.<br/>
-
-## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=Apple&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=React&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-AWS&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Interest-Blockchain-informational?style=flat&logo=bitcoin&logoColor=white&color=blue)
-
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vincenzopirozzideveloper&label=Profile%20views&color=0e75b6&style=flat" alt="vincenzopirozzideveloper" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vincenzopirozzideveloper" alt="vincenzopirozzideveloper" /></a> </p>
-
-- 👨‍💻 All of my projects are available at [https://www.vincenzopirozziresume.com](https://www.vincenzopirozziresume.com)
-
-- 📫 How to reach me **vincenzopirozzi.applications@gmail.com**
-
-- 📄 Know about my experiences [www.resume.com](www.resume.com)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vincenzopirozzi-developer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vincenzopirozzi-developer/" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vincenzopirozzideveloper&label=Profile%20views&color=0e75b6&style=flat" alt="vincenzopirozzideveloper" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://scully.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/scullyio/scully/main/assets/logos/SVG/scullyio-icon.svg" alt="scully" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+## 👨‍💻 Profilo Professionale
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vincenzopirozzideveloper&show_icons=true&locale=en&layout=compact" alt="vincenzopirozzideveloper" /></p>
+Senior Full Stack Developer con solida expertise in architetture backend e pratiche DevSecOps. Mi distinguo per l'approccio pragmatico alla risoluzione di problemi complessi, privilegiando soluzioni eleganti e manutenibili rispetto a over-engineering non necessario. La mia filosofia di sviluppo si basa su principi DRY, clean code e pattern consolidati applicati con criterio.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vincenzopirozzideveloper&show_icons=true&locale=en" alt="vincenzopirozzideveloper" /></p>
+### 🎯 Principi di Sviluppo
+- **DRY (Don't Repeat Yourself)**: Massima riusabilità del codice
+- **Clean Architecture**: Separazione delle responsabilità e modularità
+- **Security First**: Implementazione proattiva di best practice di sicurezza
+- **Performance Optimization**: Bilanciamento tra efficienza e manutenibilità
+- **SOLID Principles**: Applicazione pragmatica dove appropriato
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vincenzopirozzideveloper&" alt="vincenzopirozzideveloper" /></p>
+## 🛠️ Stack Tecnologico
 
+### Backend Development
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Filament](https://img.shields.io/badge/Filament_v3-F59E0B?style=for-the-badge&logoColor=white)
+
+- **Framework principale**: Laravel 10/11/12 con Filament v3 per pannelli amministrativi
+- **API Development**: RESTful services e GraphQL
+- **Database**: MySQL/MariaDB con ottimizzazione query e indici
+- **Architettura**: Service Layer Pattern, Repository Pattern, DDD quando appropriato
+
+### Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js_3-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white)
+
+- **Frameworks**: React, Vue 3 con Vuetify
+- **Responsive Design**: Bootstrap, Tailwind CSS
+- **Build Tools**: Vite, Webpack, NPM
+
+### DevSecOps & Infrastructure
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+- **Containerization**: Docker, Docker Compose, Docker Swarm
+- **Orchestration**: Kubernetes per deployment scalabili
+- **CI/CD**: GitHub Actions, GitLab CI
+- **Version Control**: Git con branching strategies (GitFlow)
+- **Code Quality**: ESLint, Prettier, PHP CS Fixer, PHPStan
+
+### Mobile Development
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+### Trading Systems
+- **Linguaggi**: MQL4/MQL5 per Expert Advisors e indicatori personalizzati
+- **Integrazione**: API REST per sistemi di trading automatizzato
+
+## 🔐 Security & Best Practices
+
+### Sicurezza Applicativa
+- **Prevenzione vulnerabilità**: SQL Injection, XSS, CSRF
+- **Autenticazione**: OAuth2, JWT, OpenID Connect
+- **Crittografia**: Implementazione di HTTPS, encryption at rest
+- **Audit**: Log strutturati e monitoraggio attività sensibili
+
+### Standard di Qualità
+- **Accessibilità (A11y)**: WCAG 2.1 compliance
+- **Internazionalizzazione (i18n)**: Supporto multilingua nativo
+- **Testing**: Unit testing, Integration testing, E2E testing
+- **Documentation**: API documentation con OpenAPI/Swagger
+
+## 📊 Metodologie
+
+- **Agile/Scrum**: Sprint planning, daily standup, retrospective
+- **Code Review**: PR review sistematiche con focus su qualità e sicurezza
+- **Continuous Integration**: Build automatiche e quality gates
+- **Design Patterns**: Factory, Observer, Strategy applicati con criterio
+
+## 🎓 Background Formativo
+
+Diploma in Informatica e Telecomunicazioni presso I.T.I.S. "Augusto Righi", con continuo aggiornamento professionale attraverso certificazioni e formazione specialistica.
+
+## 📈 Risultati Chiave
+
+- Riduzione del 60% dei tempi di deployment attraverso pipeline CI/CD ottimizzate
+- Implementazione di architetture microservizi che hanno migliorato la scalabilità del 300%
+- Riduzione delle vulnerabilità di sicurezza del 95% attraverso security audit proattivi
+- Ottimizzazione performance database con riduzione query time del 70%
+
+## 🤝 Collaborazione
+
+Disponibile per:
+- Consulenze su architetture enterprise
+- Sviluppo di soluzioni backend complesse
+- Implementazione DevSecOps pipelines
+- Code review e mentoring tecnico
+
+## 📫 Contatti
+
+- **Email**: vincenzopirozzi.applications@gmail.com
+- **Portfolio**: [vincenzopirozziresume.com](https://www.vincenzopirozziresume.com)
+- **LinkedIn**: [linkedin.com/in/vincenzopirozzi-developer](https://www.linkedin.com/in/vincenzopirozzi-developer/)
+
+---
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vincenzopirozzideveloper&show_icons=true&locale=en&layout=compact&theme=dark" alt="vincenzopirozzideveloper" />
+</p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vincenzopirozzideveloper&show_icons=true&locale=en&theme=dark" alt="vincenzopirozzideveloper" />
+</p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vincenzopirozzideveloper&theme=dark" alt="vincenzopirozzideveloper" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=vincenzopirozzideveloper&theme=darkhub&column=7" alt="vincenzopirozzideveloper" />
+  </a>
+</p>
